@@ -8,7 +8,7 @@ ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-SOV = {
+MON = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 163 17 31 }
 }
@@ -257,11 +257,6 @@ USA = {
 	color = rgb { 20 133 237 }
 	color_ui = rgb { 87 160 255 }
 }
-MON = {
-	#color = HSV { 0.1 0.15 0.4 }
-	color = rgb { 108 140 42 }
-	color_ui = rgb { 209 247 133 }
-}
 MEN = {
 	color = rgb { 185  255  152 }
 	color_ui = rgb { 165  230  132 }
@@ -427,6 +422,11 @@ MAN = {
 	color_ui = rgb { 255 120 71 }
 }
 ANG = {
+	color = rgb { 37 140 61 }
+	color_ui = rgb { 37 140 61 }
+}
+
+RUS = {
 	color = rgb { 37 140 61 }
 	color_ui = rgb { 37 140 61 }
 }
