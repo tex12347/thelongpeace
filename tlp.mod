@@ -1,5 +1,5 @@
 name="The Long Peace"
-path="mod/althistory/"
+path="mod/TLP/"
 tags={
 	"Alternative History"
 	"National Focuses"
